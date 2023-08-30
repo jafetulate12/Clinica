@@ -1,0 +1,40 @@
+C:\poo\Proyecto_Poo\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.deps.json
+C:\poo\Proyecto_Poo\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\poo\Proyecto_Poo\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\poo\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.csproj.AssemblyReference.cache
+C:\poo\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\poo\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.AssemblyInfoInputs.cache
+C:\poo\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.AssemblyInfo.cs
+C:\poo\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\poo\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.dll
+C:\poo\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.pdb
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.deps.json
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.pdb
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.deps.json
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.pdb
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.deps.json
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.pdb

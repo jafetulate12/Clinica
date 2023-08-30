@@ -1,0 +1,52 @@
+C:\poo\Proyecto_Poo\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaAccesoDatos.deps.json
+C:\poo\Proyecto_Poo\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaAccesoDatos.dll
+C:\poo\Proyecto_Poo\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaAccesoDatos.pdb
+C:\poo\Proyecto_Poo\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\poo\Proyecto_Poo\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\poo\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\poo\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\poo\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.AssemblyInfoInputs.cache
+C:\poo\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.AssemblyInfo.cs
+C:\poo\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\poo\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.csproj.CopyComplete
+C:\poo\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.dll
+C:\poo\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaAccesoDatos.deps.json
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaAccesoDatos.deps.json
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaAccesoDatos.deps.json
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaAccesoDatos\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaAccesoDatos\obj\Debug\netstandard2.0\CapaAccesoDatos.pdb

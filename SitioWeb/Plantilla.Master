@@ -1,0 +1,76 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Plantilla.Master.cs" Inherits="SitioWeb.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Clinica el Buen Vivir</title>
+
+    <asp:ContentPlaceHolder ID="ContenidoHead" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+	<script src="Scripts/bootstrap.bundle.min.js"></script>
+     <script type="text/javascript">
+        function mostrarMensaje(mensaje) {
+            alert(mensaje, mostrarMensaje)
+        }
+     </script>
+    <link href="css/Estilos.css" rel="stylesheet" />
+</head>
+<body>
+
+    <div class="container">
+           <!-- Bara de Navegacion -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-primary">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#">Clinica El Buen Vvir</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="PaginaPrincipal.aspx">Inicio</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="AgendarCita.aspx">Agendar cita</a>
+                        </li>
+                         <li class="nav-item">
+                            <a class="nav-link" href="frmClientes.aspx">Registro Pacientes</a>
+                        </li>
+                          <li class="nav-item">
+                            <a class="nav-link" href="frmListaCitas.aspx">Lista de Citas</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+          <!-- Fin de Barra de Navegacion -->
+
+          <!-- Cuerpo de la pagina -->
+    <main>
+        <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+               
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    </main>
+    
+       <!-- Pie de la pagina -->
+     <footer>
+            <div class="bg-primary text-white p-3 mb-3">
+                <asp:ContentPlaceHolder ID="ContenidoFooter" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </footer>
+       <!-- Fin del pie de la pagina -->
+
+    </div>
+     <!-- Fin del div container -->
+  
+</body>
+</html>

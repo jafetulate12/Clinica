@@ -1,0 +1,60 @@
+C:\poo\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaLogica.deps.json
+C:\poo\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaLogica.dll
+C:\poo\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaLogica.pdb
+C:\poo\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaAccesoDatos.dll
+C:\poo\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\poo\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaAccesoDatos.pdb
+C:\poo\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\poo\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.csproj.AssemblyReference.cache
+C:\poo\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\poo\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.AssemblyInfoInputs.cache
+C:\poo\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.AssemblyInfo.cs
+C:\poo\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.csproj.CoreCompileInputs.cache
+C:\poo\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.csproj.CopyComplete
+C:\poo\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.dll
+C:\poo\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.pdb
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaLogica.deps.json
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaLogica.dll
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaLogica.pdb
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.csproj.CopyComplete
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.dll
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.pdb
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaLogica.deps.json
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaLogica.dll
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaLogica.pdb
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.csproj.CopyComplete
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.dll
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.pdb
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaLogica.deps.json
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaLogica.dll
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaLogica.pdb
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaLogica\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.csproj.CopyComplete
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.dll
+C:\Users\Usuario\Desktop\10_Jafet_Fase_3\Proyecto_Poo\CapaLogica\obj\Debug\netstandard2.0\CapaLogica.pdb

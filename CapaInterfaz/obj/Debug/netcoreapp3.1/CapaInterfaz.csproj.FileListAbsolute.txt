@@ -1,0 +1,144 @@
+C:\poo\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.exe
+C:\poo\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.deps.json
+C:\poo\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.runtimeconfig.json
+C:\poo\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.runtimeconfig.dev.json
+C:\poo\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.dll
+C:\poo\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.pdb
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.csproj.AssemblyReference.cache
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmMenuPrincipal.resources
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.Properties.Resources.resources
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.csproj.GenerateResource.cache
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.AssemblyInfoInputs.cache
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.AssemblyInfo.cs
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.csproj.CoreCompileInputs.cache
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.dll
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.pdb
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.genruntimeconfig.cache
+C:\poo\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\poo\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\poo\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\poo\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\poo\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\poo\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\poo\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaAccesoDatos.dll
+C:\poo\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaEntidades.dll
+C:\poo\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaLogica.dll
+C:\poo\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaEntidades.pdb
+C:\poo\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaLogica.pdb
+C:\poo\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaAccesoDatos.pdb
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmAdministrarPacientes.resources
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.csproj.CopyComplete
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmFuncionarios.resources
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmBuscarPaciente.resources
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmBuscarFuncionario.resources
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmAdministrarEspecialistas.resources
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmBuscarEspecialistas.resources
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmAdministrarEspecialidad.resources
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmBuscarEspecialidad.resources
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmAdmistrarMedicamentos.resources
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmBuscarMedicamento.resources
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmAdministrarDiagnostico.resources
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmAministrarHistorial.resources
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmBuscarDiagnostico.resources
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmAdministrarAgendaEspecialista.resources
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmCitasAProgramar.resources
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmBuscarCita.resources
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmAdministrarPagos.resources
+C:\poo\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmBitacora.resources
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.exe
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.deps.json
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.runtimeconfig.json
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.dll
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.pdb
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaEntidades.dll
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaLogica.dll
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaEntidades.pdb
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaLogica.pdb
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmAdministrarAgendaEspecialista.resources
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmAdministrarDiagnostico.resources
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmAdministrarEspecialidad.resources
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmAdministrarEspecialistas.resources
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmAdministrarPacientes.resources
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmAdministrarPagos.resources
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmAdmistrarMedicamentos.resources
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmAministrarHistorial.resources
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmBitacora.resources
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmBuscarCita.resources
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmBuscarDiagnostico.resources
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmBuscarEspecialidad.resources
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmBuscarEspecialistas.resources
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmBuscarFuncionario.resources
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmBuscarMedicamento.resources
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmBuscarPaciente.resources
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmCitasAProgramar.resources
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmFuncionarios.resources
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmMenuPrincipal.resources
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.Properties.Resources.resources
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.csproj.CopyComplete
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.dll
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.pdb
+C:\Users\Usuario\Desktop\COPIA_WEB1\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.exe
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.deps.json
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.runtimeconfig.json
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.dll
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaInterfaz.pdb
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaAccesoDatos.dll
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaEntidades.dll
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaLogica.dll
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaEntidades.pdb
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaLogica.pdb
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\bin\Debug\netcoreapp3.1\CapaAccesoDatos.pdb
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmAdministrarAgendaEspecialista.resources
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmAdministrarDiagnostico.resources
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmAdministrarEspecialidad.resources
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmAdministrarEspecialistas.resources
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmAdministrarPacientes.resources
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmAdministrarPagos.resources
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmAdmistrarMedicamentos.resources
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmAministrarHistorial.resources
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmBitacora.resources
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmBuscarCita.resources
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmBuscarDiagnostico.resources
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmBuscarEspecialidad.resources
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmBuscarEspecialistas.resources
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmBuscarFuncionario.resources
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmBuscarMedicamento.resources
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmBuscarPaciente.resources
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmCitasAProgramar.resources
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmFuncionarios.resources
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.frmMenuPrincipal.resources
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.Properties.Resources.resources
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.csproj.CopyComplete
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.dll
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.pdb
+C:\Users\Usuario\Desktop\copia web 2\Proyecto_Poo\CapaInterfaz\obj\Debug\netcoreapp3.1\CapaInterfaz.genruntimeconfig.cache
